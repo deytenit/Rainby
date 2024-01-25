@@ -1,0 +1,6 @@
+[submodule "fonts/Baloo2"]
+	path = fonts/Baloo2
+	url = https://github.com/EkType/Baloo2.git
+[submodule "fonts/sarala"]
+	path = fonts/sarala
+	url = https://github.com/Huertatipografica/sarala.git
